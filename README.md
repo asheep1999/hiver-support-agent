@@ -383,9 +383,6 @@ hiver-support-agent/
 ├── src/
 │   ├── __init__.py
 │   ├── data_loader.py
-│   ├── preprocess.py
-│   ├── conversation_builder.py
-│   ├── intent_discovery.py
 │   ├── classifier.py
 │   ├── retrieval.py
 │   ├── generator.py
@@ -396,7 +393,6 @@ hiver-support-agent/
 │   ├── __init__.py
 │   ├── evaluate_agent.py
 │   ├── evaluate_intent.py
-│   ├── evaluate_escalation.py
 │   ├── failure_analysis.py
 │   ├── combine_failure_analysis.py
 │   ├── create_confusion_matrix.py
