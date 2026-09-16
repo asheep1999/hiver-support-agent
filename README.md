@@ -106,7 +106,6 @@ Intent Confidence     Historical Retrieval
                      v                 v
                 Human Review      Grounded Reply
 
-
 ---
 
 ## 6. Classification Model
@@ -340,7 +339,7 @@ A smaller subset is also evaluated by an LLM judge using the same rubric.
 
 Judge-human agreement is reported separately and is not treated as ground truth.
 
-Reply-quality results will be added after the generative evaluation stage.
+Final reply-quality results are reported in Section 18.
 
 ---
 
@@ -368,6 +367,9 @@ Use more human raters and a larger reply-quality evaluation set.
 
 ---
 
+# 16. Project Structure
+
+```text
 # 16. Project Structure
 
 ```text
@@ -399,7 +401,9 @@ hiver-support-agent/
 │   ├── combine_failure_analysis.py
 │   ├── create_confusion_matrix.py
 │   ├── select_reply_cases.py
-│   └── llm_judge.py
+│   ├── generate_reply_cases.py
+│   ├── llm_judge.py
+│   └── reply_quality_metrics.py
 │
 ├── results/
 │   ├── agent_predictions.csv
@@ -418,7 +422,10 @@ hiver-support-agent/
 ├── DECISION_LOG.md
 ├── requirements.txt
 ├── .gitignore
-└── .env
+└── .env.example
+
+
+```
 
 # 17. Reproduction
 
