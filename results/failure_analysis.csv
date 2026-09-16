@@ -1,0 +1,112 @@
+failure_type,details
+intent_confusion,Actual intent 'app_or_feature_issue' was predicted as 'other_or_unclear' 12 time(s).
+intent_confusion,Actual intent 'other_or_unclear' was predicted as 'app_or_feature_issue' 11 time(s).
+intent_confusion,Actual intent 'ios_update_issue' was predicted as 'other_or_unclear' 8 time(s).
+intent_confusion,Actual intent 'other_or_unclear' was predicted as 'ios_update_issue' 7 time(s).
+intent_confusion,Actual intent 'app_or_feature_issue' was predicted as 'ios_update_issue' 6 time(s).
+intent_confusion,Actual intent 'app_or_feature_issue' was predicted as 'device_slow_freezing_crashing' 6 time(s).
+intent_confusion,Actual intent 'battery_charging_issue' was predicted as 'other_or_unclear' 4 time(s).
+intent_confusion,Actual intent 'other_or_unclear' was predicted as 'device_slow_freezing_crashing' 3 time(s).
+intent_confusion,Actual intent 'keyboard_autocorrect_issue' was predicted as 'other_or_unclear' 2 time(s).
+intent_confusion,Actual intent 'apple_id_account_issue' was predicted as 'app_or_feature_issue' 2 time(s).
+intent_confusion,Actual intent 'battery_charging_issue' was predicted as 'device_slow_freezing_crashing' 2 time(s).
+intent_confusion,Actual intent 'apple_id_account_issue' was predicted as 'device_slow_freezing_crashing' 1 time(s).
+intent_confusion,Actual intent 'battery_charging_issue' was predicted as 'app_or_feature_issue' 1 time(s).
+intent_confusion,Actual intent 'app_or_feature_issue' was predicted as 'keyboard_autocorrect_issue' 1 time(s).
+intent_confusion,Actual intent 'app_or_feature_issue' was predicted as 'apple_id_account_issue' 1 time(s).
+intent_confusion,Actual intent 'app_or_feature_issue' was predicted as 'apple_watch_issue' 1 time(s).
+intent_confusion,Actual intent 'app_or_feature_issue' was predicted as 'wifi_mobile_data_issue' 1 time(s).
+intent_confusion,Actual intent 'battery_charging_issue' was predicted as 'ios_update_issue' 1 time(s).
+intent_confusion,Actual intent 'ios_update_issue' was predicted as 'device_slow_freezing_crashing' 1 time(s).
+intent_confusion,Actual intent 'ios_update_issue' was predicted as 'app_or_feature_issue' 1 time(s).
+intent_confusion,Actual intent 'device_slow_freezing_crashing' was predicted as 'other_or_unclear' 1 time(s).
+intent_confusion,Actual intent 'device_slow_freezing_crashing' was predicted as 'ios_update_issue' 1 time(s).
+intent_confusion,Actual intent 'other_or_unclear' was predicted as 'battery_charging_issue' 1 time(s).
+intent_confusion,Actual intent 'keyboard_autocorrect_issue' was predicted as 'app_or_feature_issue' 1 time(s).
+intent_confusion,Actual intent 'other_or_unclear' was predicted as 'imessage_facetime_issue' 1 time(s).
+intent_confusion,Actual intent 'wifi_mobile_data_issue' was predicted as 'ios_update_issue' 1 time(s).
+escalation_false_positive,Example 2607 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1456 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2860 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2120 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2655 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2128 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1211 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2004 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1049 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 927 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2831 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 247 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1432 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2714 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 300 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 219 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 292 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 64 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1386 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 671 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 371 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 140 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2290 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2339 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 747 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2589 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2231 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 185 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 271 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1392 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1961 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1799 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 53 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 150 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 529 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1126 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 863 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2271 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 599 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 686 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 808 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2524 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 858 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1968 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 3054 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 3061 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2481 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 347 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 412 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1208 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2449 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2828 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 417 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2595 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2726 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1892 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 241 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1519 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2888 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2495 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2116 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1188 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1941 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2030 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2952 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2294 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 790 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2993 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 193 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2427 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 595 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 323 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 2277 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1518 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1400 was escalated although the gold label expected no escalation.
+escalation_false_positive,Example 1843 was escalated although the gold label expected no escalation.
+escalation_false_negative,Example 355 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 1237 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 2543 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 204 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 680 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 369 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 1743 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 315 was not escalated although the gold label expected escalation.
+escalation_false_negative,Example 1641 was not escalated although the gold label expected escalation.

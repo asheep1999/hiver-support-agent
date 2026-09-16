@@ -1,0 +1,31 @@
+{
+  "dataset": {
+    "brand": "AppleSupport",
+    "golden_set_size": 200,
+    "development_examples": 2869,
+    "historical_conversation_pairs": 3091
+  },
+  "intent_classification": {
+    "majority_baseline": {
+      "accuracy": 0.325,
+      "macro_f1": 0.05
+    },
+    "tfidf_logistic_regression": {
+      "accuracy": 0.61,
+      "macro_f1": 0.58,
+      "weighted_f1": 0.62
+    }
+  },
+  "escalation": {
+    "precision": 0.50,
+    "recall": 0.8941,
+    "f1": 0.6414,
+    "accuracy": 0.57,
+    "false_positives": 76,
+    "false_negatives": 9
+  },
+  "reply_quality": {
+    "status": "pending_generation",
+    "evaluation_cases": 15
+  }
+}

@@ -1,0 +1,121 @@
+example_id,clean_customer_message,intent,predicted_intent,intent_confidence,top_retrieval_similarity,expected_escalation,predicted_escalation,historical_evidence,generated_reply,human_groundedness,human_relevance,human_helpfulness,human_tone,human_overall,judge_groundedness,judge_relevance,judge_helpfulness,judge_tone,judge_overall
+486,Hey my keyboard is going haywire when I️ type I️ #help,keyboard_autocorrect_issue,keyboard_autocorrect_issue,0.947920813,0.854372025,no,no,"Case 1
+Customer: Hey @AppleSupport my keyboard is going haywire when I️ type I️ #help https://t.co/v7Tfc47sgK
+AppleSupport: @122932 We'd like to help. Which software version are you using on your iPhone?
+
+Case 2
+Customer: Everytime I type the letter ""I"" this pops up. #PleaseFixThis @115858 https://t.co/bhB5snCHXr
+AppleSupport: @123680 We're here to help. DM us and tell us the device you have and the exact version of iOS you're running. https://t.co/GDrqU22YpT
+
+Case 3
+Customer: What’s going on with the keyboard?! @AppleSupport 🤯
+#IGate https://t.co/Kb2OodO4Pb
+AppleSupport: @129600 Let's look into this for you. Send us a DM with your current iOS version to get started, https://t.co/GDrqU22YpT",We're here to help. Send us a DM with your device model and the exact version of iOS you're running so we can look into this for you.,4,3,3,4,3,5,5,5,5,5
+179,iOS11.1 consumes battery pretty fast....,battery_charging_issue,battery_charging_issue,0.905567847,0.877226233,no,no,"Case 1
+Customer: @AppleSupport iOS11.1 consumes battery pretty fast....
+AppleSupport: @117645 Let's see how you're using your battery so we can provide the best solution. To start, DM us with the country where you're located. https://t.co/GDrqU22YpT
+
+Case 2
+Customer: @AppleSupport @115858 After iOS11 the battery is draining very fast. Request you to look into it.
+AppleSupport: @123504 We'd like to help. Could you Direct Message us and tell us what iOS version you're on currently? https://t.co/GDrqU22YpT
+
+Case 3
+Customer: @applesupport 11.1 battery.  Hi, I've noticed a significant decrease in battery life since upgrading my SE to IOS 11.  50% less!
+AppleSupport: @121458 Great battery life is part of what gets you and your iPhone through your day, and we want to make sure we get this resolved for you. So we can get started, how long has it been since you've updated? Did this start as soon as you updated? https://t.co/GDrqU22YpT","We'd like to help get this resolved for you. How long has it been since you updated, and did this battery issue start as soon as you updated to iOS 11.1? 
+
+Please send us a Direct Message with those details and the country you're located in so we can look into this further with you.",4,4,3,4,4,5,5,5,5,5
+94,tell me why I️’I’ve updated my phone twice and I️ can’t type letter I️ without getting a letter A and a question mark,keyboard_autocorrect_issue,keyboard_autocorrect_issue,0.891667624,0.924007058,no,no,"Case 1
+Customer: @AppleSupport tell me why I️’I’ve updated my phone twice and I️ can’t type letter I️ without getting a letter A and a question mark
+AppleSupport: @116856 We're here for you. What is the exact version of the iOS you're running? Check by tapping Settings &gt; General &gt; About.
+
+Case 2
+Customer: WHY CANT I️ TUPE THE LETTER I️ @115858  I️ UPDATED MY PHONE.
+AppleSupport: @129780 DM us using the link below. We'll work together from there. https://t.co/GDrqU22YpT
+
+Case 3
+Customer: Why am I seeing boxed up question marks? And I updated my phone ! @115858 wth is going on 🙄😡
+AppleSupport: @130258 Let's help. To make sure we're on the same page, are you running iOS 11.1?",We're here to help. Could you tell us the exact version of iOS currently running on your iPhone? You can check by tapping Settings > General > About.,4,3,3,4,3,5,5,5,5,5
+189,Ayo fix this whole question mark box ting dem shits annoying.,keyboard_autocorrect_issue,keyboard_autocorrect_issue,0.890669234,0.829311848,no,no,"Case 1
+Customer: Ayo @AppleSupport fix this whole question mark box ting dem shits annoying.
+AppleSupport: @117652 Hi, can you tell us more about this in a DM? We'll look into this together from there. https://t.co/GDrqU22YpT
+
+Case 2
+Customer: This “I️” shit annoying yo @115858 fix this shit
+AppleSupport: @116858 We're here to help. Send us a DM with the iOS version number you're on. We'll follow up there. https://t.co/GDrqU22YpT
+
+Case 3
+Customer: @AppleSupport tell me why the i keeps doing this stupid shit A with the boxed question mark make it stop
+AppleSupport: @121841 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9","We're here to help. Please send us a Direct Message with the iOS version your device is currently running, and we can look into this together.",3,3,2,4,3,5,4,4,5,4
+1460,what’s up with the question mark?,keyboard_autocorrect_issue,keyboard_autocorrect_issue,0.869168429,0.761469483,no,no,"Case 1
+Customer: @AppleSupport what’s up with the question mark? https://t.co/7NCCWo9Z89
+AppleSupport: @128898 Which version of iOS do you have installed on your device? Look at Settings &gt; General &gt; About. We'd be happy to help.
+
+Case 2
+Customer: See right here!!! What’s the question mark? I️ didn’t put that there!!! @AppleSupport https://t.co/QswmjxiQZ5
+AppleSupport: @124307 Let's work on getting to the bottom of this together. Which iOS version is installed? Let us know in DM. https://t.co/GDrqU22YpT
+
+Case 3
+Customer: @115858 We Have A Problem What Are These Question Mark Boxes For What’s Going On 👀👀
+AppleSupport: @128486 We'd be happy to look into this issue with you. Send us a DM, and we'll continue there. https://t.co/GDrqU22YpT",We'd be happy to help with this. Which version of iOS do you currently have installed on your device? You can check under Settings > General > About. Feel free to send us a DM and we can continue there.,4,3,3,4,3,5,5,5,5,5
+2928,"I’m having trouble with the new iOS update (11.1.2), my apps do not start well since I upgraded my iOS, i need to restart my phone all the time. I need a solution soon. Thanks.",app_or_feature_issue,ios_update_issue,0.462050905,0.965581536,no,no,"Case 1
+Customer: @AppleSupport I’m having trouble with the new iOS update (11.1.2), my apps do not start well since I upgraded my iOS, i need to restart my phone all the time. I need a solution soon. Thanks.
+AppleSupport: @143063 Thanks for letting us know, we're happy to help. Do you notice this occurs more often with a specific app or any? Also, are you showing any updates of the app in the App Store? Let us know and we'll continue to assist.
+
+Case 2
+Customer: Ey @AppleSupport since I updating my iPhone 8 to iOS 11.1 does not stop restarting!! 😡😞😭 #iOS11 #bug
+AppleSupport: @125423 Let's get this sorted out together. Do you notice this happening when performing any specific steps or opening an app?
+
+Case 3
+Customer: @116333 Hi,can you please update iOS software to 11.2 because I am facing a lots of issues with the latest version iOS 10.1
+AppleSupport: @123694 Good morning, Sai! We're sorry that the update isn't working out. Send us a DM, and tell us why. We'd love to sort it out. https://t.co/GDrqU22YpT","Thanks for reaching out to us. We understand how important it is to have your apps working smoothly, and we're happy to help get this sorted out. 
+
+Does this issue occur with specific apps or with all of them? Also, do you see any pending app updates available in the App Store? Let us know, and we'll continue to assist you.",4,3,4,5,4,5,5,5,5,5
+1641,Its an iphone 7 running IOS 11.1. I have tried the hard reset.,other_or_unclear,ios_update_issue,0.470678191,0.965490699,yes,no,"Case 1
+Customer: @AppleSupport Its an iphone 7 running IOS 11.1. I have tried the hard reset.
+AppleSupport: @130246 Got it. Do you get an error messages when you try to use your charger on your phone? Let us know in DM. https://t.co/GDrqU22YpT
+
+Case 2
+Customer: in a matter of 4 hours i had to make 3 hard resets on my phone, i just made 2 hard resets on this phone’s life before iOS 11. fix this @115858 @AppleSupport
+AppleSupport: @119816 Certainly not what we want you to experience. We'd love to look into this with you and help resolve ensure your iPhone is working 100% as expected. Please DM us and let us know which iPhone and the exact version of iOS you're using. https://t.co/GDrqU22YpT
+
+Case 3
+Customer: @AppleSupport It’s been occurring for about a week and I just updated my to IOS 11 today to try to fix it and tried resetting my settings but nothing worked
+AppleSupport: @136073 Thanks for the information. We'd like to confirm we have all the specific details we need. Please meet us in DM, so we can further assist: https://t.co/GDrqU22YpT",Thanks for letting us know. We'd like to look into this with you and help. Please send us a Direct Message with more details about the specific issue or any error messages you're seeing so we can further assist.,4,3,2,4,3,5,5,5,5,5
+1337,"Updated my phone and now it’s 10,000X’s slower. 😡😡😡",device_slow_freezing_crashing,device_slow_freezing_crashing,0.476320182,0.930800557,no,no,"Case 1
+Customer: Updated my phone and now it’s 10,000X’s slower. 😡😡😡 @AppleSupport
+AppleSupport: @127941 That's not the type of experience that we'd like for you to have. Meet us in DM. Click here: https://t.co/GDrqU22YpT
+
+Case 2
+Customer: Thank you @AppleSupport I updated my phone and now it is even slower and barely works. Thank you for ruining my phone.😤
+AppleSupport: @115864 We'd like to help, but we'll need more details. What's happening on your device and which model is it? Do you have iOS 11.1?
+
+Case 3
+Customer: @AppleSupport I have updated to the latest version and now my phone is slower than ever!! What in the fuck??? Either give me my 700$ back or fix my phone. I want it to be as fast as it was the day I purchased it. And no memory is not full cause it’s the 64gb! Fix this @115858
+AppleSupport: @130049 Let's check this out together. Follow us to DM and we'll take a closer look. https://t.co/GDrqU22YpT","That is not the experience we want you to have, and we'd like to help. Please send us a direct message with your phone model and current software version so we can take a closer look into this with you.",4,3,3,4,4,5,5,5,5,5
+315,"after updating to ios 11.1 I have no service, displays no service. reset networking settings does nothing",wifi_mobile_data_issue,ios_update_issue,0.477816342,0.900414109,yes,no,"Case 1
+Customer: @AppleSupport after updating to ios 11.1 I have no service, displays no service. reset networking settings does nothing
+AppleSupport: @118927 We'd like to see what we can do to assist. DM us and we'll continue from there. https://t.co/GDrqU22YpT
+
+Case 2
+Customer: @AppleSupport I‘m using ios 11.1.2 was the same since the ios11 update. Message says „no connection available at the moment“... repeat? Same error on my ipad with ios 11.1.2
+AppleSupport: @135581 Thank you for those details. Does this happen when you use Wi-Fi and cellular data?
+
+Case 3
+Customer: I updated to iOS 11 and my iPhone 6 stopped connecting to wi-fi. Already restored the phone and the network connections @AppleSupport
+AppleSupport: @117108 We are here to help. So we can best isolate the cause, could you verify your exact iOS version? https://t.co/ZTw54HL4Rm",We'd like to see what we can do to assist. Send us a DM and we'll continue from there.,2,3,3,3,2,5,4,4,5,4
+135,"Yes, sorry i mean iOS 11, when I texting my keyboard it’s very slow and my battery it consumes very fast.",battery_charging_issue,battery_charging_issue,0.478757153,0.982450426,no,no,"Case 1
+Customer: @AppleSupport Yes, sorry i mean iOS 11, when I texting my keyboard it’s very slow and my battery it consumes very fast.
+AppleSupport: @117183 Are you currently using Low Power Mode? If so, disable that from Settings &gt; Battery and restart. Let us know in DM if it helps. https://t.co/GDrqU22YpT
+
+Case 2
+Customer: @AppleSupport Yes! Lately my battery life lasts way less than it used to do before downloading iOS 11.
+AppleSupport: @119564 Got it. DM us, and we'll look into this deeper. https://t.co/GDrqU22YpT
+
+Case 3
+Customer: Hey @115858 and @AppleSupport does this improve iOS11's excessive battery consumption? #iOS11 #ios #apple #battery https://t.co/EkBBoM6K2u
+AppleSupport: @122946 Update improvements can resolve lots of issues. Learn more about iOS 11.1 here for specifics: https://t.co/iwrxY4BcIv","Are you currently using Low Power Mode? If so, try disabling that from Settings > Battery and restart your device. Send us a DM to let us know if that helps!",4,3,3,3,3,5,5,5,5,5
+2432,is it possible to make an appointment for someone else? My sister is locked out of her account and her iPhone is dead so she can’t receive the code.,apple_id_account_issue,app_or_feature_issue,0.180514304,0.97632277,yes,yes,,[ROUTED TO HUMAN],NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1609,"I've tried to update on my computer it stated that I can't do because of some error, it takes about 2 hours. No matter how times I try I see an error message",ios_update_issue,other_or_unclear,0.183298037,0.890443325,yes,yes,,[ROUTED TO HUMAN],NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2993,Can I really not just use a song on my phone as a ringtone?,app_or_feature_issue,device_slow_freezing_crashing,0.185223817,0.961688817,no,yes,,[ROUTED TO HUMAN],NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,Well it froze as I was ordering a pizza so I had to. And now it’s already to 49%,battery_charging_issue,app_or_feature_issue,0.203364776,0.737612963,no,yes,,[ROUTED TO HUMAN],NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+599,Why did my phone turn to shit after all these recent updates? 🤔,ios_update_issue,other_or_unclear,0.207696252,0.9120363,no,yes,,[ROUTED TO HUMAN],NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
